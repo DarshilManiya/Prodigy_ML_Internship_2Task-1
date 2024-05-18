@@ -1,1 +1,1 @@
-# Prodigy_ML_Internship_2Task-1
+# Prodigy_ML_Internship_Task-2
